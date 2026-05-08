@@ -22,7 +22,7 @@
 ```python
 class AnirudhVikal:
     name      = "Anirudh Vikal"
-    degree    = ["BE Computer Science", "BS Data Science & Programming — IIT Madras"]
+    degree    = ["BE Computer Science" "and" "BS Data Science & Programming — IIT Madras"]
     building  = "Maker-Checker multi-agent systems using n8n"
     learning  = ["Advanced LLM Orchestration", "Multi-agent Decision Loops", "Enterprise System Design"]
     interests = ["Predictive Modeling", "Agentic AI", "Competitive Hackathons"]
