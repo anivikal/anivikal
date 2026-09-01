@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Anirudh%20Vikal&fontSize=70&fontColor=fff&fontAlignY=38&desc=ML%20Engineer%20·%20Agentic%20Systems%20·%20IIT%20Madras&descSize=18&descAlignY=58&descColor=ffffffaa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Anirudh%20Vikal&fontSize=70&fontColor=fff&fontAlignY=38&desc=%20&descColor=ffffffaa&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/anivikal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+Maker-Checker+multi-agent+systems+🤖;Predictive+AI+pipelines+for+the+real+world+📊;BE+CS+%2B+BS+Data+Science+%40+IIT+Madras+🎓;Always+hunting+for+LDAC+clarity+🎧" alt="Typing SVG" />
