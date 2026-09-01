@@ -23,9 +23,9 @@
 class AnirudhVikal:
     name      = "Anirudh Vikal"
     degree    = ["BE Computer Science" "and" "BS Data Science & Programming — IIT Madras"]
-    building  = "Maker-Checker multi-agent systems using n8n"
+    building  = "VoiceFlow"
     learning  = ["Advanced LLM Orchestration", "Multi-agent Decision Loops", "Devops","EKS", "Enterprise System Design"]
-    interests = ["Predictive Modeling", "Agentic AI","Devops", "Competitive Hackathons"]
+    interests = ["Devops", "Competitive Hackathons", "Physics"]
     fun_fact  = "The best AI is beautifully orchestrated 🎼  |  LDAC clarity is non-negotiable 🎧"
 ```
 
